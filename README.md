@@ -1,5 +1,5 @@
 # Apk
 
-点击ViewCode
+点击 view code
 
-Download下载
+点击apk文件下载，如果不行用浏览器打开网址
